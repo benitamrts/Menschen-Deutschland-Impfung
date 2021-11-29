@@ -1,4 +1,4 @@
-# Menschen-Deutschland-Impfung
+# Menschen, Deutschland, Impfung
 NaNoGenMo contribution 
 
 
